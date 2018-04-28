@@ -2,7 +2,7 @@
 $districts=array(
   'Aşgabat' => array(
       'Aşgabat'
-                    )
+                    ),
 
   'Ahal' => array(
     'Änew',
