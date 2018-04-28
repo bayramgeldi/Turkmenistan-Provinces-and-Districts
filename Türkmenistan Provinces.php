@@ -1,5 +1,5 @@
 <?php
-$turkmenistan=array(
+$districts=array(
   'Aşgabat' => array(
       'Aşgabat'
                     )
